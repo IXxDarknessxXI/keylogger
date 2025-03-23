@@ -17,7 +17,7 @@ Este es un keylogger sencillo programado en Python. El script captura las pulsac
 ## Instalación
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/keylogger.git
+   git clone https://github.com/IXxDarknessxXI/keylogger.git
 
 
 1. Instala las dependencias:
